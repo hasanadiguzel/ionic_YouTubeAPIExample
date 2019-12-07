@@ -6,7 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class YoutubeService {
 
-  private readonly apiKey: string = "AIzaSyCQUmbGESTLNrJzz9fKlanhstu-jsjtnn8";
+  private readonly apiKey: string = "[YOUR_API_KEY]";
 
   constructor(public http: HttpClient) 
   {
