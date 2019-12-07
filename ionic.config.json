@@ -1,0 +1,8 @@
+{
+  "name": "ionic_YouTubeAPIExample",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
